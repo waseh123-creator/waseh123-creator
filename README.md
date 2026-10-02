@@ -1,94 +1,79 @@
 # Hafiz Muhammad Waseh
 
-## 👋 About Me
+## About Me
 
-I am a **Software Engineering student at UET Lahore** with a strong interest in **software development, backend development, and web technologies**.
+I am a Software Engineering student at UET Lahore with a strong interest in software development, backend development, AI applications, and web technologies.
 
-I enjoy building practical projects, learning new technologies, and improving my problem-solving skills through programming and software engineering.
+I enjoy building practical projects and learning modern technologies through hands-on development. Currently, I am focusing on Python, FastAPI, SQL, backend development, Data Structures and Algorithms, and Software Engineering.
 
-Currently, I am focusing on **Python, FastAPI, SQL, backend development, and software engineering concepts**, while also working with C# and .NET for application development.
+## Skills & Technologies
 
-## 🛠️ Skills & Technologies
+| Category            | Technologies                             |
+| ------------------- | ---------------------------------------- |
+| Languages           | Python, C#, JavaScript, SQL, HTML, CSS   |
+| Backend             | FastAPI, REST APIs, Pydantic, SQLAlchemy |
+| Databases           | PostgreSQL, SQL Server                   |
+| AI & Tools          | RAG, FAISS, Gemini API, Groq API         |
+| Desktop Development | C# .NET, WinForms, PyQt5                 |
+| Computer Vision     | OpenCV, MediaPipe, PyAutoGUI             |
+| Tools               | Git, GitHub, VS Code, Visual Studio      |
 
-| Category                | Technologies                               |
-| ----------------------- | ------------------------------------------ |
-| **Languages**           | Python, C#, JavaScript, SQL, HTML, CSS     |
-| **Backend**             | FastAPI, REST APIs, Pydantic, SQLAlchemy   |
-| **Databases**           | PostgreSQL, SQL Server                     |
-| **AI / ML**             | RAG, FAISS, Gemini, Groq APIs              |
-| **Desktop Development** | C# .NET, WinForms                          |
-| **Tools**               | Git, GitHub, VS Code, Visual Studio        |
-| **Concepts**            | OOP, DSA, DBMS, Software Engineering, APIs |
+## Featured Projects
 
-## 🚀 Featured Projects
+### TravelNestGlobal
 
-### ✈️ TravelNestGlobal
+A C# .NET WinForms travel management and booking application developed using Object-Oriented Programming principles.
 
-A **C# .NET WinForms travel management and booking system** developed using Object-Oriented Programming principles.
+Features include flight and hotel booking, custom trip planning, user registration and login, admin panel, booking management, role-based functionality, and SQL Server database integration.
 
-**Features:**
+### Hospital Knowledge Base RAG Assistant
 
-* Flight and hotel booking
-* Custom trip planner
-* User registration and login
-* Admin panel
-* Booking management
-* SQL Server database integration
-* Role-based functionality
+An AI-powered Streamlit application that allows users to ask questions from hospital policies, guidelines, and medical knowledge documents using Retrieval-Augmented Generation.
 
-### 🏥 Hospital Knowledge Base RAG Assistant
+Technologies include Python, Streamlit, FAISS, Sentence Transformers, PDF processing, and Groq API.
 
-An AI-powered **Streamlit RAG application** that allows users to ask questions from hospital policy and guideline documents.
+### ThreatLens
 
-**Technologies:**
+A Streamlit-based security analysis application for checking IP addresses, domains, and URLs using external security and domain information sources.
 
-* Python
-* Streamlit
-* FAISS
-* Sentence Transformers
-* Groq API
-* PDF processing
+Technologies include Python, Streamlit, VirusTotal API, WHOIS, and Gemini API.
 
-### 🔍 ThreatLens
+### Health, Workout and Diet Management System
 
-A security-focused Streamlit application for analyzing **IP addresses, domains, and URLs** using external security and domain information sources.
+A web-based health and fitness management application that provides personalized information based on user inputs.
 
-**Technologies:**
+Features include BMI, BMR, TDEE calculations, diabetes-related rules, workout recommendations, diet planning, a 7-day plan, and a login system using local storage.
 
-* Python
-* Streamlit
-* VirusTotal API
-* WHOIS
-* Gemini API
+Technologies include Python, HTML, CSS, JavaScript, and rule-based logic.
 
-### 🖱️ Virtual Mouse
+### Virtual Mouse
 
-A computer-vision project that uses **hand tracking** to control mouse movements and actions.
+A computer vision project that allows users to control mouse movement and actions using hand gestures.
 
-**Technologies:**
+Technologies include Python, OpenCV, MediaPipe, and PyAutoGUI.
 
-* Python
-* OpenCV
-* MediaPipe
-* PyAutoGUI
+### Pygame Alarm Clock
 
-## 📚 Currently Learning
+A Python-based alarm clock application developed using Pygame with a graphical interface and alarm functionality.
+
+### PyQt5 Stopwatch
+
+A desktop stopwatch application developed using Python and PyQt5 with a graphical user interface and timer controls.
+
+## Currently Learning
 
 * Advanced Python
-* FastAPI & Backend Development
-* PostgreSQL & SQLAlchemy
+* FastAPI and Backend Development
+* PostgreSQL and SQLAlchemy
 * REST API Development
-* Authentication & JWT
-* Data Structures & Algorithms
+* Authentication and JWT
+* Data Structures and Algorithms
 * Object-Oriented Programming
 * Software Engineering
+* AI and RAG Applications
 
-## 🎯 Goal
+## Contact
 
-My goal is to become a **skilled Software Engineer** by building real-world projects, strengthening my problem-solving skills, and continuously learning modern software technologies.
-
-## 📫 Connect With Me
-
-* **GitHub:** https://github.com/your-username
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
-* **Location:** Lahore, Pakistan
+* Email: [your.email@example.com](mailto:your.email@example.com)
+* GitHub: https://github.com/your-username
+* LinkedIn: https://www.linkedin.com/
