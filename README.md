@@ -74,6 +74,6 @@ A desktop stopwatch application developed using Python and PyQt5 with a graphica
 
 ## Contact
 
-* Email: [your.email@example.com](mailto:your.email@example.com)
-* GitHub: https://github.com/your-username
-* LinkedIn: https://www.linkedin.com/
+* Email: wasehshah4@gmail.com
+* GitHub: https://github.com/waseh123-creator
+* LinkedIn: www.linkedin.com/in/hafiz-muhammad-waseh-a0a227379
